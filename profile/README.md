@@ -1,2 +1,2 @@
 # aospa-opace3
-WORKING IN PROGRESS 
+Development of this device has been suspended as AOSPA beryl is not yet ready.
