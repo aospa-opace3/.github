@@ -8,7 +8,7 @@ A project to port AOSPA beryl to OnePlus Ace 3.
 * **Target Device:** OnePlus Ace 3 (`astonc`)
 * **Build Status:** **Bootable** 
 
-## 🛠 Current State
+## Current State
 
 The system can boots to the home screen.
 
