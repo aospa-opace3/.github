@@ -6,7 +6,7 @@ A project to port AOSPA beryl to OnePlus Ace 3.
 
 * **Source:** https://github.com/AOSPA-Mod
 * **Target Device:** OnePlus Ace 3 (`astonc`)
-* **Build Status:** **Bootable** 
+* **Status:** **Bootable** 
 
 ## Current State
 
